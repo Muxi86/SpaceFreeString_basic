@@ -9,13 +9,14 @@ Write a Python function called count_digits() that takes a string with a fixed l
 
 
 ## Example
-
+```
 input: string = "a1b2c"
 output: 2
-
+```
+```
 input: string = "hello"
 output: 0
-
+```
 ## Notes
 
 - The string will always be of length 5.
