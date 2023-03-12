@@ -8,4 +8,6 @@ def reverse_string(string: str)-> str:
         str: reversed string
     """
     # Your code here
-    pass
+    ans = string[::-1]
+    return ans
+print(reverse_string("olleh"))
